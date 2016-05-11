@@ -1,5 +1,5 @@
 # hello-world
-just for try
+just test!
 i'll be missing you 
 every step i take
 every move i make 
